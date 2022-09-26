@@ -1,0 +1,42 @@
+h1 { 
+    color :rgb(0, 0, 0);
+
+}
+
+* {
+    background-color: yellow;
+    font-family:Helvetica, Verdana, sans-serif;
+
+}
+
+header,
+form,
+p,
+h1,
+h2 {
+    text-align: center;
+}
+
+.pic {
+    text-align: center;
+}
+
+
+li {
+    color: red;
+}
+
+li,
+p {
+    font-size: 22px;
+}
+
+div.container {
+    text-align: center;
+}
+
+.midlist {
+    display: inline-block;
+  text-align: left;
+}
+
