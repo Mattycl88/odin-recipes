@@ -42,10 +42,25 @@ div.container {
   text-align: left;
 }
 
+.homelist {
+    display: inline-flex;
+    
+}
+
+homelist p {
+    color:black;
+}
+
 .homebutton {
     height: 40px;
     width: 60px;
     text-align:center;
     background-color: blue;
     color: white;
+    border-color:white;
+}
+
+.homeimage {
+    height: 214px;
+    width:auto;
 }
