@@ -6,6 +6,7 @@ h1 {
 * {
     background-color: yellow;
     font-family:Helvetica, Verdana, sans-serif;
+    box-sizing:border-box;
 
 }
 
@@ -24,6 +25,7 @@ h2 {
 
 li {
     color: red;
+    margin: 20px
 }
 
 li,
@@ -40,3 +42,10 @@ div.container {
   text-align: left;
 }
 
+.homebutton {
+    height: 40px;
+    width: 60px;
+    text-align:center;
+    background-color: blue;
+    color: white;
+}
