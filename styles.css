@@ -47,8 +47,12 @@ div.container {
     
 }
 
-homelist p {
+.homelist p {
     color:black;
+}
+
+.homelist li {
+    list-style-type: none;
 }
 
 .homebutton {
